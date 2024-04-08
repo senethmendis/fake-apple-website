@@ -1,5 +1,4 @@
-# React + Vite
-# Threejs + GSAP
+# React + Vite + Threejs + GSAP
 
 ![Apple](https://i.pinimg.com/736x/21/a5/f7/21a5f7ae40ae7a4660f184a73324a6a4.jpg)
 ![Apple](https://i.pinimg.com/736x/d5/d4/94/d5d4944558e3068c7bce5af67045c1d0.jpg)
