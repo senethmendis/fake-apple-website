@@ -1,5 +1,5 @@
 # Apple Website Clone
-![dp](https://github.com/senethmendis/wine-store-hero-section-ux-ui/blob/main/public/thumb.png)
+![dp](https://github.com/senethmendis/fake-apple-website/blob/main/public/Screenshot%202024-07-28%20144130%20(1).png)
 
 ### Built With
 
